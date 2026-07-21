@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence",
+  "description": "A KPI, visual insight, and action-oriented AI summary generator for retail sales operations across five regions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
